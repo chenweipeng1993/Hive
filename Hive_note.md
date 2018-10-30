@@ -92,3 +92,6 @@ https://blog.csdn.net/l1028386804/article/details/51538611
 删掉temp的文件重新hadoop namenode -format
 https://blog.csdn.net/love666666shen/article/details/74350358
 
+Hive入门小结
+https://www.cnblogs.com/lym0805/p/7684549.html
+
